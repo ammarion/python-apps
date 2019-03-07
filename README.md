@@ -1,3 +1,0 @@
-# Dictionary
-
-The first application we are going to build is a dictionary. An interactive dictionary. I know, I know, it’s easy. But a journey of thousand miles begins with a single step, so you have to take the first step. Now, what the dictionary will do? It will retrieve the definition for the word which user has entered, that’s what dictionaries do, right? In addition to that, if the user has made a typo while entering a word, our program will suggest the closest word saying ‘did you mean this instead?’, and if the word has more than one definition, retrieve all of them. Doesn’t seem that easy now, huh? Let’s find out.
